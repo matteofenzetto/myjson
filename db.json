@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+    event_name: "Angular Today and Tomorrow",
+    author: "John Doe",
+    topic: "Front-End",
+    description: "Ubi est fortis tata? Est teres classis, cesaris."
+  },
+  {
+    event_name: "How To Hack an Angular app?",
+    author: "Jim Jones ",
+    topic: "Front-End",
+    description: "Why does the lubber die?"
+  },
+  {
+    event_name: "Docker in Production",
+    author: "Ringo Starr",
+    topic: "Back-End",
+    description: "Never trade a kraken."
+  },
+  {
+    event_name: "Angular vs Vue",
+    author: "Chuck Norris",
+    topic: "Front-End",
+    description: "Yellow fever, love, and malaria.."
+  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
